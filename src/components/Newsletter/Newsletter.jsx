@@ -5,7 +5,7 @@ export const Newsletter = () => {
 
 
    return (
-      <div className="container my-5">
+      <div className="container-fluid my-5">
          <h2 className='h2c'>NewsLetter</h2>
          <hr />
          <p className='pn'>Un nuevo estudio revela los beneficios impensados del café</p>
