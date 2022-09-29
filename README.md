@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Normandia Cafe](https://github.com/avidela47/NormandiaCafeVidela)
 
-- <img src="../assets/img/log.jpg" alt="BigCo Inc. logo"></img> 
+- ![Logo](../Navbar/logo.png)
 
 - 🌱 I’m currently learning **React JS**
 
