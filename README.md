@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Normandia Cafe](https://github.com/avidela47/NormandiaCafeVidela)
 
-- ![Logo](../Navbar/logo.png)
+- <p align="center">
+   <img src="../assets/img/log.jpg" width="350" alt="logo">
+</p>
 
 - 🌱 I’m currently learning **React JS**
 
