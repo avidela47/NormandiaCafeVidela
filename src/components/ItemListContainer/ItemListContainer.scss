@@ -1,0 +1,81 @@
+
+.row{
+    margin: 0 10px;
+    justify-content:space-around;
+}
+.tit{
+    margin-top: 5px;
+    color: white;
+    font-size: 2.5rem;
+    font-family: "Neuton";
+    text-align:center;
+}
+
+.hr{
+    color: white;
+}
+
+.card{
+    background-color: rgb(245, 238, 238);
+    color: rgb(68, 66, 66);
+    box-shadow: 1px 1px 5px rgb(107, 105, 105);
+    border: solid rgba(3, 133, 255, 0) 2px;
+    width: 295px;
+    height: 455px;
+    font-family: "Neuton";
+    font-size: 0.3rem;
+    text-align: center;
+    justify-content:space-around;
+    margin: 15px 30px;
+    
+}
+
+.cardimg{
+    width: 150px;
+    height: 150px;
+    display:inline-block;
+    margin-top: 8px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.cardt{
+    font-family: "Neuton";
+    text-align: center;
+    font-size: 22px;
+    color: #6a6a6a;
+    margin-top: 0;
+    
+}
+
+.cardtx{
+    font-family: "Neuton";
+    font-size: 13px;
+    text-align: center;
+}
+
+.cardp{
+    font-family: "Neuton";
+    font-size: 20px;
+    text-align: center;
+}
+
+.cardo{
+    font-family: "Neuton";
+    font-size: 14px;
+    
+}
+.btns{
+    font-size: 15px;
+    margin-bottom: 0;
+    
+}
+
+.cardodd{
+    color: red;
+    font-family: "Neuton";
+    font-size: 14px;
+    font-weight: 900;
+}
+
+

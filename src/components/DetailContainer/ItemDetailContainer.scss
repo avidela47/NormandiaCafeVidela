@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+.det {
+    background-image: url(../../../public/assets/img/fondoDetalle.jpg);
+    margin-top: 28px;
+    height: 550px;
+}
+
+.row {
+    margin: 0 10px;
+    justify-content: space-around;
+}
+
+.btna {
+    color: black;
+}
+
+.dett {
+    margin: 5px;
+}
+
+.hr {
+    color: white;
+}
+
+.cardd {
+    background: rgba(0, 0, 0, 0.7);
+    opacity: 0.7;
+    border: 1px solid;
+    color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 5px rgb(107, 105, 105);
+    border: solid rgba(3, 133, 255, 0) 2px;
+    height: 540px;
+    font-family: "Neuton";
+    font-size: 0.3rem;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: -500px;
+    margin-left: 900px;
+}
+
+.cardimgd {
+    width: 24rem;
+    height: 500px;
+    display: inline-block;
+    margin-top: 8px;
+    margin-left: 50px;
+    margin-right: auto;
+}
+
+.cardtd {
+    font-family: "Neuton";
+    text-align: center;
+    font-size: 25px;
+    color: #ffffff;
+    margin-top: 0;
+    font-weight: bold;
+
+}
+
+.cardtxd {
+    font-family: "Neuton";
+    font-size: 17px;
+    text-align: center;
+}
+
+.cardpd {
+    font-family: "Neuton";
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.cardod {
+    font-family: "Neuton";
+    font-size: 17px;
+
+}
+
+.promo {
+    margin-top: -450px;
+    margin-left: 500px;
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+    background-image: url(../../../public/assets/img/fondoOff.jpg);
+}
+
+.cardpp {
+    font-family: 'Lobster', cursive;
+    color: #e1f012;
+    text-align: center;
+    line-height: 50px;
+    margin-top: -400px;
+    -moz-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
+    -webkit-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
+    -o-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
+    -ms-transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
+    transform: scale(1) rotate(-5deg) translateX(0px) translateY(0px) skewX(1deg) skewY(1deg);
+    /*-----------------------*/
+    text-shadow: 1px 1px #ffcd00, 2px 2px #ffcd00, 3px 3px #ffcd00, 4px 4px #ffcd00, 5px 5px #ffcd00, 6px 6px #ffcd00, 7px 7px #ffcd00, 8px 8px #ffcd00, 9px 9px #ffcd00, 10px 10px #ffcd00, 11px 11px #ffcd00, 12px 12px #ffcd00, 13px 13px #ffcd00, 14px 14px #ffcd00, 15px 15px #ffcd00, 16px 16px #ffcd00, 17px 17px #ffcd00, 18px 18px #ffcd00, 19px 19px #ffcd00, 20px 20px #ffcd00, 21px 21px #ffcd00, 22px 22px #ffcd00, 23px 23px #ffcd00, 24px 24px #ffcd00, 25px 25px #ffcd00, 26px 26px 6px #06520C;
+
+}
+
+span:nth-child(3),
+span:nth-child(7) {
+    font-size: 60px;
+}
+
+span:nth-child(1),
+span:nth-child(9),
+span:nth-child(5) {
+    font-size: 110px;
+}

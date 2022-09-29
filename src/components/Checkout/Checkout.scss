@@ -1,0 +1,59 @@
+.h2cc {
+  color: white;
+  font-family: "Neuton";
+  text-align: center;
+}
+
+.po {
+  text-align: center;
+  font-family: "Neuton";
+  font-size: 15px;
+}
+
+.btnccc {
+  margin-left: 150px;
+}
+
+hr {
+  color: white;
+}
+
+.formc {
+  position:relative;
+  background-image: url(../../../public/assets/img/tarjetaCredito.jpg);
+  left: 200px;
+  top: 150px;
+  transform: translate(-50%, -50%);
+  height: 300px;
+  width: 400px;
+  overflow: hidden;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 0 20px 8px #d0d0d0;
+  color: white;
+}
+
+.btnf {
+  margin: 30px;
+}
+
+.h3nn {
+  font-size: 20px;
+  font-family: "Neuton";
+  text-align: center;
+}
+
+.formcc {
+  font-family: "Neuton";
+  border-radius: 5px;
+  box-shadow: 0 0 20px 8px #5c5b5b;
+  width: 300px;
+}
+
+.formccc{
+  display: flex;
+  font-family: "Neuton";
+  border-radius: 5px;
+  box-shadow: 0 0 20px 8px #5c5b5b;
+  width: 80px;
+}
