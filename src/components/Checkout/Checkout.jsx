@@ -68,7 +68,7 @@ export const Checkout = () => {
       <div className="form container my-5">
         <h2 className="h2cc">Gracias por tu compra!!!</h2>
         <hr />
-        <p className="po">Tu numero de orden es: <strong>{orderId}</strong></p>
+        <p className="po"><strong>{values.nombre}</strong>: Tu numero de orden es <strong>{orderId}</strong></p>
         <Link className='btnccc btn btn-outline-success' to='/'>Seguir comprando</Link>
       </div>
     )
