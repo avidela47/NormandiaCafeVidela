@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on [Normandia Cafe](https://github.com/avidela47/NormandiaCafeVidela)
 
-- <p align="center">
-   <img src="../../../public/assets/img/logo.png" width="350" alt="logo">
-</p>
+- ![alt tag](src="../../../public/assets/img/logo.png")
+
 
 - 🌱 I’m currently learning **React JS**
 
